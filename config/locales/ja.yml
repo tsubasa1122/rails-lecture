@@ -5,7 +5,9 @@ ja:
         name: 名前
         title: タイトル
         body: 本文
-  views:
+      comment:
+        name: 名前
+        comment: コメント  
     pagination:
       first: 最初
       last: 最後
